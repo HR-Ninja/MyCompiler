@@ -1,0 +1,1 @@
+This project is to learn how to tokenize and then use those tokens to create an abstract syntax tree, at the moment this just transpiles my own programming language into C++ then compiles and runs it but i will be expanding it so it compiles straight to LLVM IR.
