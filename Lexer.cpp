@@ -1,13 +1,15 @@
 #include "Lexer.hpp"
 
 
-Lexer::Lexer(const std::string& src) : src(src), position(0) {};
+Lexer::Lexer(const std::string& source) : src(source), position(0) {};
 
 Lexer::Token Lexer::nextToken()
 {
 
+
 	while (position < src.size())
 	{
+
 		char current = src[position];
 
 		// skip whitespaces
@@ -16,6 +18,8 @@ Lexer::Token Lexer::nextToken()
 			position++;
 			continue;
 		}
+
+
 
 		if (isalpha(current))
 		{
@@ -112,7 +116,6 @@ void Lexer::debugPrint()
 	while (true)
 	{
 		if (t.type == TOKEN_EOF) break;
-
 		t = nextToken();
 	}
 }
