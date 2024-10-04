@@ -42,8 +42,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T16:53:39.812Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -52,7 +65,7 @@
               "RelativeDocumentMoniker": "mycode.xx",
               "ToolTip": "C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\mycode.xx",
               "RelativeToolTip": "mycode.xx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-10-02T19:23:41.358Z",
               "EditorCaption": ""
@@ -67,8 +80,7 @@
               "RelativeToolTip": "CodeGenerator.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-02T18:24:55.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T18:24:55.34Z"
             },
             {
               "$type": "Document",
@@ -80,8 +92,7 @@
               "RelativeToolTip": "Parser.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-02T18:05:19.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T18:05:19.953Z"
             },
             {
               "$type": "Document",
@@ -93,8 +104,7 @@
               "RelativeToolTip": "Lexer.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-01T17:10:44.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T17:10:44.04Z"
             },
             {
               "$type": "Document",
@@ -106,8 +116,7 @@
               "RelativeToolTip": "CodeGenerator.hpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-01T16:55:23.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T16:55:23.951Z"
             },
             {
               "$type": "Document",
@@ -131,21 +140,7 @@
               "RelativeToolTip": "Lexer.hpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-01T16:54:51.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\main.cpp",
-              "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-01T16:53:39.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T16:54:51.912Z"
             }
           ]
         }

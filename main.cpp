@@ -45,6 +45,8 @@ int main()
 
 	delete ast;
 
+	std::cout << std::endl;
+
 	system("g++ -o output output.cpp");
 	system(".\\output.exe");
 
