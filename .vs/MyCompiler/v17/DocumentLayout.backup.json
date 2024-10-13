@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F9E59440-D93C-4508-AAC3-D32311B74069}|MyCompiler.vcxproj|C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\output.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F9E59440-D93C-4508-AAC3-D32311B74069}|MyCompiler.vcxproj|solutionrelative:output.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E59440-D93C-4508-AAC3-D32311B74069}|MyCompiler.vcxproj|C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\output.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{F9E59440-D93C-4508-AAC3-D32311B74069}|MyCompiler.vcxproj|solutionrelative:output.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E59440-D93C-4508-AAC3-D32311B74069}|MyCompiler.vcxproj|C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{F9E59440-D93C-4508-AAC3-D32311B74069}|MyCompiler.vcxproj|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E59440-D93C-4508-AAC3-D32311B74069}|MyCompiler.vcxproj|C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\Parser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F9E59440-D93C-4508-AAC3-D32311B74069}|MyCompiler.vcxproj|solutionrelative:Parser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E59440-D93C-4508-AAC3-D32311B74069}|MyCompiler.vcxproj|C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\CodeGenerator.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F9E59440-D93C-4508-AAC3-D32311B74069}|MyCompiler.vcxproj|solutionrelative:CodeGenerator.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E59440-D93C-4508-AAC3-D32311B74069}|MyCompiler.vcxproj|C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\Parser.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F9E59440-D93C-4508-AAC3-D32311B74069}|MyCompiler.vcxproj|solutionrelative:Parser.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F9E59440-D93C-4508-AAC3-D32311B74069}|MyCompiler.vcxproj|C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F9E59440-D93C-4508-AAC3-D32311B74069}|MyCompiler.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -21,18 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F9E59440-D93C-4508-AAC3-D32311B74069}|MyCompiler.vcxproj|C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\Lexer.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F9E59440-D93C-4508-AAC3-D32311B74069}|MyCompiler.vcxproj|solutionrelative:Lexer.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9E59440-D93C-4508-AAC3-D32311B74069}|MyCompiler.vcxproj|C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\Parser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F9E59440-D93C-4508-AAC3-D32311B74069}|MyCompiler.vcxproj|solutionrelative:Parser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9E59440-D93C-4508-AAC3-D32311B74069}|MyCompiler.vcxproj|C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\CodeGenerator.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F9E59440-D93C-4508-AAC3-D32311B74069}|MyCompiler.vcxproj|solutionrelative:CodeGenerator.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9E59440-D93C-4508-AAC3-D32311B74069}|MyCompiler.vcxproj|C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\Parser.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F9E59440-D93C-4508-AAC3-D32311B74069}|MyCompiler.vcxproj|solutionrelative:Parser.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,19 +59,56 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "output.cpp",
+              "DocumentMoniker": "C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\output.cpp",
+              "RelativeDocumentMoniker": "output.cpp",
+              "ToolTip": "C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\output.cpp",
+              "RelativeToolTip": "output.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-05T15:41:32.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "output.exe",
+              "DocumentMoniker": "C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\output.exe",
+              "RelativeDocumentMoniker": "output.exe",
+              "ToolTip": "C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\output.exe",
+              "RelativeToolTip": "output.exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2024-10-05T15:41:29.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-10-05T15:41:27.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-01T16:53:39.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "mycode.xx",
               "DocumentMoniker": "C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\mycode.xx",
               "RelativeDocumentMoniker": "mycode.xx",
@@ -67,12 +116,11 @@
               "RelativeToolTip": "mycode.xx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-02T19:23:41.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T19:23:41.358Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "CodeGenerator.cpp",
               "DocumentMoniker": "C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\CodeGenerator.cpp",
               "RelativeDocumentMoniker": "CodeGenerator.cpp",
@@ -84,19 +132,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Parser.cpp",
               "DocumentMoniker": "C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\Parser.cpp",
               "RelativeDocumentMoniker": "Parser.cpp",
               "ToolTip": "C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\Parser.cpp",
               "RelativeToolTip": "Parser.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-02T18:05:19.953Z"
+              "WhenOpened": "2024-10-02T18:05:19.953Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Lexer.cpp",
               "DocumentMoniker": "C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\Lexer.cpp",
               "RelativeDocumentMoniker": "Lexer.cpp",
@@ -108,31 +157,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "CodeGenerator.hpp",
               "DocumentMoniker": "C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\CodeGenerator.hpp",
               "RelativeDocumentMoniker": "CodeGenerator.hpp",
               "ToolTip": "C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\CodeGenerator.hpp",
               "RelativeToolTip": "CodeGenerator.hpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-01T16:55:23.951Z"
+              "WhenOpened": "2024-10-01T16:55:23.951Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Parser.hpp",
               "DocumentMoniker": "C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\Parser.hpp",
               "RelativeDocumentMoniker": "Parser.hpp",
               "ToolTip": "C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\Parser.hpp",
               "RelativeToolTip": "Parser.hpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAACAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-01T16:55:05.452Z"
+              "WhenOpened": "2024-10-01T16:55:05.452Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Lexer.hpp",
               "DocumentMoniker": "C:\\Users\\HR-PC\\Desktop\\C\u002B\u002B Projects\\MyCompiler\\Lexer.hpp",
               "RelativeDocumentMoniker": "Lexer.hpp",

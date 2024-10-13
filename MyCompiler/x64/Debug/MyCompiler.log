@@ -1,6 +1,5 @@
 ﻿  CodeGenerator.cpp
-  Lexer.cpp
-  main.cpp
   Parser.cpp
+  main.cpp
   Generating Code...
   MyCompiler.vcxproj -> C:\Users\HR-PC\Desktop\C++ Projects\MyCompiler\x64\Debug\MyCompiler.exe
